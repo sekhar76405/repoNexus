@@ -22,7 +22,7 @@
   <snapshotRepository>
     <id>upes</id>
     <name>upes</name>
-    <url>http://localhost:8081/repository/upes/</url>
+    <url>http://localhost:8081/repository/Cicd_Lab_Nexus/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
