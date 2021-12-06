@@ -20,8 +20,8 @@
 </repositories>
 <distributionManagement>
   <snapshotRepository>
-    <id>upes</id>
-    <name>upes</name>
+    <id>Cicd_Lab_Nexus</id>
+    <name>Cicd_Lab_Nexus</name>
     <url>http://localhost:8081/repository/Cicd_Lab_Nexus/</url>
   </snapshotRepository>
 </distributionManagement>
